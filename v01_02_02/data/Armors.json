@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"A damaged shield. ","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Shield","note":"<recipe>\ni: 61, 2\n</recipe>","params":[0,0,0,7,0,0,0,0],"price":10},
+{"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Hat","note":"<recipe>\ni: 61, 1\n</recipe>","params":[0,0,0,5,0,0,0,0],"price":10},
+{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Cloth Armor","note":"<recipe>\ni: 61, 3\n</recipe>","params":[0,0,0,5,0,0,1,0],"price":10},
+{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring","note":"<recipe>\ni: 29, 2\n</recipe>","params":[0,0,0,0,10,0,0,0],"price":300},
+{"id":5,"atypeId":2,"description":"Plated armor from a slained Dragon. \nRegenerates MP.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":22,"dataId":8,"value":0.05}],"iconIndex":137,"name":"Dragonplate Armor","note":"<recipe>\ni: 62, 1\ni: 55, 3\ni: 29, 1\n</recipe>","params":[0,0,0,50,0,0,-2,0],"price":699},
+{"id":6,"atypeId":3,"description":"Armor made from Pork skin. ","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Leather Armor","note":"<recipe>\ni: 60, 3\ni: 61, 2\n</recipe>","params":[0,0,0,15,0,0,0,0],"price":199},
+{"id":7,"atypeId":4,"description":"Armor made from Iron. ","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":3,"value":0.01}],"iconIndex":137,"name":"Iron Armor","note":"<recipe>\ni: 55, 3\ni: 60, 1\ni: 61, 1\n</recipe>","params":[0,0,0,22,0,0,-1,0],"price":899},
+{"id":8,"atypeId":3,"description":"A Helmet made from Leather","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Leather Helmet","note":"<recipe>\ni: 60, 2\ni: 61, 1\n</recipe>","params":[0,0,0,12,0,0,0,0],"price":199},
+{"id":9,"atypeId":6,"description":"A shield made from Iron. ","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":3,"value":0.01}],"iconIndex":128,"name":"Iron Shield","note":"<recipe>\ni: 55, 2\ni: 60, 1\ni: 61, 1\n</recipe>","params":[0,0,0,15,0,0,0,0],"price":699},
+{"id":10,"atypeId":5,"description":"A shield made from Leather and Wood. ","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Leather Shield","note":"<recipe>\ni: 60, 2\ni: 61, 1\n</recipe>","params":[0,0,0,12,0,0,0,0],"price":199},
+{"id":11,"atypeId":3,"description":"A hat from an apprentice. ","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":133,"name":"Apprentice Hat","note":"<recipe>\ni: 61, 1\ni: 2, 1\n</recipe>","params":[0,0,0,0,10,0,0,0],"price":199},
+{"id":12,"atypeId":3,"description":"A hat from a Noble Wizard.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":133,"name":"Wizard Hat","note":"<recipe>\ni: 61, 2\ni: 2, 2\n</recipe>","params":[0,50,0,0,18,0,0,0],"price":799},
+{"id":13,"atypeId":3,"description":"A Glove made of leather","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":142,"name":"Leather Glove","note":"<recipe>\ni: 60, 1\ni: 61, 1\n</recipe>","params":[0,0,0,5,0,0,0,0],"price":150},
+{"id":14,"atypeId":3,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Padded Armor","note":"<recipe>\ni: 61, 4\n</recipe>","params":[0,0,0,6,0,0,2,0],"price":0},
+{"id":15,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":16,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":17,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":18,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":19,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":20,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
